@@ -120,4 +120,3 @@ Our findings suggest that policies aimed at increasing imprisonment may serve as
 
 ---
 
-This structured Markdown format organizes your project details clearly, adds bold headings, and includes placeholders for the required images. You can now upload your graphs and charts to GitHub and link them using the appropriate paths. This will make your README file both professional and comprehensive.
